@@ -1,2 +1,1 @@
-﻿# Pyhton-Projects
-Robo Speaker Code
+﻿# Robo Speaker Code
